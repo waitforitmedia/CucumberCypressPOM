@@ -1,2 +1,2 @@
 # CucumberCypressPOM
-integration Cypress 10 - POM - Cucumber
+Integration Cypress 10 - POM - Cucumber
