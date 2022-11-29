@@ -22,6 +22,8 @@ git clone git@github.com:waitforitmedia/CucumberCypressPOM.git
 
 ```bash
 npm install --save-dev cypress@"Latest version"
+```
 
+```bash
 npx cypress open
 ```
