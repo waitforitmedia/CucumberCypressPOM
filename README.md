@@ -21,7 +21,7 @@ git clone git@github.com:waitforitmedia/CucumberCypressPOM.git
 - Install the latest version
 
 ```bash
-npm install --save-dev cypress@"Latest version"
+npm install --save-dev cypress@latest"
 ```
 
 ```bash
